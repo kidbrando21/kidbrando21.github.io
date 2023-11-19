@@ -1,58 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+# Welcome to My GitHub Pages
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Pages Template</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
+## Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Contact](#contact)
 
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
+## About Me
+This is where you can introduce yourself or your project. Feel free to write about your background, interests, or anything else you'd like to share.
 
-    <main>
-        <section id="home">
-            <h1>Welcome to My GitHub Page</h1>
-            <p>This is where you can introduce yourself or your project.</p>
-        </section>
+## Projects
+### Project Title 1
+Description of the first project.
 
-        <section id="about">
-            <h2>About Me</h2>
-            <p>Some information about yourself goes here.</p>
-        </section>
+### Project Title 2
+Description of the second project.
 
-        <section id="projects">
-            <h2>Projects</h2>
-            <div class="project">
-                <h3>Project Title 1</h3>
-                <p>Description of the project.</p>
-            </div>
-            <div class="project">
-                <h3>Project Title 2</h3>
-                <p>Description of the project.</p>
-            </div>
-            <!-- Add more projects as needed -->
-        </section>
+<!-- Add more projects as needed -->
 
-        <section id="contact">
-            <h2>Contact Me</h2>
-            <p>You can reach me at example@email.com</p>
-        </section>
-    </main>
+## Contact
+You can reach me at example@email.com.
 
-    <footer>
-        <p>&copy; 2023 Your Name</p>
-    </footer>
-</body>
+---
 
-</html>
+&copy; 2023 Your Name
